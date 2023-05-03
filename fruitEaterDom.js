@@ -8,6 +8,6 @@ const addPear = document.querySelector(".pearTotal");
 let appleOrpear = FruitEater();
 
 
-addFruit.addEventListener('click', function ());
+addFruit.addEventListener('click', function());
  
 
